@@ -1,6 +1,6 @@
-# pracainzynierska
+# ratmed
 
-Praca inzynierska
+ratmed
 
 ## Getting Started
 
