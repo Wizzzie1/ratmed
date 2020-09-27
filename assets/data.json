@@ -1,0 +1,147 @@
+{
+  "Aspiryna": {
+    "kiedy": "Ostre Zespoły Wieńcowe",
+    "dawkaDorosli": "160 - 325 mg",
+    "dawkaDorosliKalkulator": "160",
+    "dawkaDzieci": "Nie podawać",
+    "dawkaDzieciKalkulator": "",
+    "drogaPodania": "p.o.",
+    "przeciwwskazaniaGrupy": [
+      {
+        "ile": "5",
+        "przeciwwskazania": [
+          {
+            "grupa": "2",
+            "przeciwwskazanie": "zaburzenia krzepnięcia"
+          },
+          {
+            "grupa": "2",
+            "przeciwwskazanie": "niedociśnienie tętnicze"
+          },
+          {
+            "grupa": "1",
+            "przeciwwskazanie": "nadwrażliwość na którykolwiek składnik"
+          },
+          {
+            "grupa": "1",
+            "przeciwwskazanie": "astma aspirynowa"
+          },
+          {
+            "grupa": "1",
+            "przeciwwskazanie": "małopłytkowość"
+          }
+        ]
+      }
+    ]
+  },
+  "Adenozyna": {
+    "kiedy": "Napadowy częstoskurcz nadkomorowy",
+    "dawkaDorosli": "6 mg",
+    "dawkaDorosliKalkulator": "6",
+    "dawkaDzieci": "0.1 mg/kg ",
+    "dawkaDzieciKalkulator": "0.1",
+    "drogaPodania": "i.v.",
+    "przeciwwskazaniaGrupy": [
+      {
+        "ile": "6",
+        "przeciwwskazania": [
+          {
+            "grupa": "2",
+            "przeciwwskazanie": "blok AV II lub III stopnia"
+          },
+          {
+            "grupa": "2",
+            "przeciwwskazanie": "trzepotanie lub migotanie przedsionków"
+          },
+          {
+            "grupa": "2",
+            "przeciwwskazanie": "niedociśnienie tętnicze"
+          },
+          {
+            "grupa": "1",
+            "przeciwwskazanie": "nadwrażliwość na adenozynę"
+          },
+          {
+            "grupa": "1",
+            "przeciwwskazanie": "POChP"
+          },
+
+          {
+            "grupa": "3",
+            "przeciwwskazanie": "astma oskrzelowa3"
+          }
+        ]
+      }
+    ]
+  },
+  "Amiodaron": {
+    "kiedy": "Napadowy częstoskurcz nadkomorowy",
+    "dawkaDorosli": "6 mg",
+    "dawkaDorosliKalkulator": "6",
+    "dawkaDzieci": "0.1 mg/kg",
+    "dawkaDzieciKalkulator": "0.1",
+    "drogaPodania": "i.v.",
+    "przeciwwskazaniaGrupy": [
+      {
+        "ile": "6",
+        "przeciwwskazania": [
+          {
+            "grupa": "2",
+            "przeciwwskazanie": "blok AV II lub III stopnia"
+          },
+          {
+            "grupa": "2",
+            "przeciwwskazanie": "trzepotanie lub migotanie przedsionków"
+          },
+          {
+            "grupa": "2",
+            "przeciwwskazanie": "niedociśnienie tętnicze"
+          },
+          {
+            "grupa": "1",
+            "przeciwwskazanie": "nadwrażliwość na adenozynę"
+          },
+          {
+            "grupa": "1",
+            "przeciwwskazanie": "POChP"
+          },
+          {
+            "grupa": "1",
+            "przeciwwskazanie": "POChP"
+          }
+        ]
+      }
+    ]
+  },
+  "Atropina": {
+    "kiedy": "Ostre Zespoły Wieńcowe",
+    "dawkaDorosli": "100 mg",
+    "dawkaDorosliKalkulator": "100",
+    "dawkaDzieci": "20 mg/kg",
+    "dawkaDzieciKalkulator": "20",
+    "drogaPodania": "p.o.",
+    "przeciwwskazaniaGrupy": [
+      {
+        "ile": "4",
+        "przeciwwskazania": [
+          {
+            "grupa": "2",
+            "przeciwwskazanie": "zaburzenia krzepnięcia"
+          },
+          {
+            "grupa": "2",
+            "przeciwwskazanie": "niedociśnienie tętnicze"
+          },
+          {
+            "grupa": "1",
+            "przeciwwskazanie": "nadwrażliwość na którykolwiek składnik"
+          },
+          {
+            "grupa": "1",
+            "przeciwwskazanie": "astma aspirynowa"
+          }
+        ]
+      }
+    ]
+  }
+}
